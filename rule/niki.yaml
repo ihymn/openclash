@@ -120,7 +120,6 @@ proxy-groups:
   - {name: 🍀 Google, <<: *pr}
   - {name: 🤖 ChatGPT, <<: *pr}
   - {name: 👨🏿‍💻 GitHub, <<: *pr}
-  - {name: 🐬 OneDrive, <<: *pr}
   - {name: 🪟 Microsoft, <<: *pr}
   - {name: 🎵 TikTok, <<: *pr}
   - {name: 📲 Telegram, <<: *pr}
@@ -150,7 +149,6 @@ rules:
   - DOMAIN-SUFFIX,iill.top,🚀 默认代理
   - DOMAIN-SUFFIX,dwogg.one,直连
   - DOMAIN-SUFFIX,6793.kstore.space,直连
-  - DOMAIN-KEYWORD,dowlz,直连
   - DOMAIN-SUFFIX,lzzy.tv,直连
   - DOMAIN-SUFFIX,wogg.xxooo.cf,直连
   - DOMAIN-KEYWORD,wogg,直连
