@@ -17,3 +17,5 @@ IP-CIDR,211.23.114.106/32,no-resolve
 IP-CIDR,211.75.236.187/32,no-resolve
 IP-CIDR,218.32.247.100/32,no-resolve
 IP-CIDR,220.134.196.147/32,no-resolve
+IP-CIDR,59.124.81.19/32,no-resolve
+IP-CIDR,60.250.121.217/32,no-resolve
