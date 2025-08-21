@@ -1,5 +1,7 @@
 # MQiTV IP
 IP-CIDR,59.125.210.231/32,no-resolve
+IP-CIDR,59.124.81.19/32,no-resolve
+IP-CIDR,60.250.121.217/32,no-resolve
 IP-CIDR,60.248.127.232/32,no-resolve
 IP-CIDR,60.250.121.103/32,no-resolve
 IP-CIDR,61.63.19.241/32,no-resolve
@@ -13,9 +15,8 @@ IP-CIDR,123.51.230.108/32,no-resolve
 IP-CIDR,123.51.231.132/32,no-resolve
 IP-CIDR,123.51.149.52/32,no-resolve
 IP-CIDR,123.51.149.68/32,no-resolve
+IP-CIDR,123.10.58.217/32,no-resolve
 IP-CIDR,211.23.114.106/32,no-resolve
 IP-CIDR,211.75.236.187/32,no-resolve
 IP-CIDR,218.32.247.100/32,no-resolve
 IP-CIDR,220.134.196.147/32,no-resolve
-IP-CIDR,59.124.81.19/32,no-resolve
-IP-CIDR,60.250.121.217/32,no-resolve
